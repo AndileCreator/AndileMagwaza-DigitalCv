@@ -1,2 +1,1 @@
-# AndileMagwaza-DigitalCv
-Personal portfolio
+# digital-cv
